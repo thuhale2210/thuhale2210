@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Thu Ha (Hannah) Le](https://thuhale2210.github.io)
+### Hi there 👋 I'm [Hannah Le](https://thuhale2210.github.io)
 > Software Engineer student
 
 <div>
