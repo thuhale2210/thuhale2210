@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="60px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
@@ -42,19 +42,3 @@ I am able to build a Web presence from the ground up - from concept, navigation,
 <a href="https://www.linkedin.com/in/thuhale2210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thuhale2210-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:thuhale2210@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thuhale2210@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
-
-<!--
-**thuhale2210/thuhale2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
