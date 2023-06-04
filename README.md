@@ -43,7 +43,7 @@ I am able to build a Web presence from the ground up - from concept, navigation,
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.thuhale2210.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.thuhale2210.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="https://thuhale2210.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.thuhale2210.github.io-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/thuhale2210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thuhale2210-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:thuhale2210@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thuhale2210@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
