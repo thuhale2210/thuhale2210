@@ -5,7 +5,7 @@
 <p>
 I am Software Engineer student whose interests are in web and game development, cloud computing and cyber security. I am a quick learner, hard worker and team player who loves to create efficient, scalable, and user-friendly solutions that solve real-world problems.
   
-I am able to build a Web presence from the ground up - from concept, navigation, layout and programming - with the aim of writing well-designed, testable and efficient code using current best practices in Web development.
+<!-- I am able to build a Web presence from the ground up - from concept, navigation, layout and programming - with the aim of writing well-designed, testable and efficient code using current best practices in Web development. -->
 </p>
 </div>
 
