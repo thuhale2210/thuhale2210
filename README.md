@@ -1,8 +1,12 @@
-### Hi there 👋 I'm [Thu Ha Le (Hannah)](https://thuhale2210.github.io)
+### Hello there 👋 I'm [Thu Ha Le (Hannah)](https://thuhale2210.github.io)
 
 <div>
 <p>
-I am Software Engineer student whose interests are in web and game development, cloud computing and security. I love creating efficient, scalable, and user-friendly solutions that solve real-world problems.
+I'm a Software Engineer student whose interests are in web and game development, cloud computing and security.
+</p>
+
+<p>
+In addition to programming skill, I bring real-world business analysis expertise from my work within the fast-paced financial industry, where I've demonstrated skills in risk management, problem-solving, and data-driven decision-making. I'm excited to connect with fellow developers and contribute to meaningful projects on GitHub, where my passion for technology and commitment to excellence can truly shine.
 </p>
 </div>
 
