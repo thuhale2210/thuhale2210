@@ -2,7 +2,7 @@
 
 <div>
 <p>
-I'm a Software Engineer student whose interests are in web and game development, cloud computing and security.
+I'm a Software Engineer student whose interests are in web development, cloud computing and security.
 </p>
 
 <p>
