@@ -1,9 +1,9 @@
 ### Hello there 👋 I'm [Thu Ha Le (Hannah)](https://thuhale2210.github.io)
 
 <div> 
-  <p> I’m a Software Engineering student with a strong interest in software development and cybersecurity. </p> <p> Beyond coding, I bring valuable real-world experience in business and technology analysis from my role in the fast-paced financial industry. My work has honed my skills in risk management, governance, and data-driven problem-solving, which I now apply to designing secure, efficient, and innovative solutions. </p> 
-  <p> I’m passionate about learning and collaborating on meaningful projects that make a difference. Let’s connect and create something amazing together! </p>
+  <p> I’m a Software Engineering student with a strong interest in software development and cybersecurity. </p> <p> Beyond coding, I bring valuable real-world experience in business and technology analysis from my role in the fast-paced financial industry. My work has honed my skills in risk management, governance, and data-driven problem-solving, which I now apply to designing secure, efficient, and innovative solutions. I’m passionate about learning and collaborating on meaningful projects that make a difference. </p>
   <p> I’ve put together a little WordPress blog to share my projects and what I’ve been learning along the way, especially in cybersecurity. Feel free to explore—check out the link below if it sparks your interest! 😊 </p>
+  <p> Let’s connect and create something amazing together! </p>
 </div>
 
 
