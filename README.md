@@ -1,13 +1,9 @@
 ### Hello there 👋 I'm [Thu Ha Le (Hannah)](https://thuhale2210.github.io)
 
-<div>
-<p>
-I'm a Software Engineer student whose interests are in web development and cybersecurity.
-</p>
-
-<p>
-In addition to programming skill, I bring real-world business analysis expertise from my work within the fast-paced financial industry, where I've demonstrated skills in risk management, problem-solving, and data-driven decision-making. I'm excited to connect with fellow developers and contribute to meaningful projects on GitHub, where my passion for technology and commitment to excellence can truly shine.
-</p>
+<div> 
+  <p> I’m a Software Engineering student with a strong interest in software development and cybersecurity. </p> <p> Beyond coding, I bring valuable real-world experience in business and technology analysis from my role in the fast-paced financial industry. My work has honed my skills in risk management, governance, and data-driven problem-solving, which I now apply to designing secure, efficient, and innovative solutions. </p> 
+  <p> I’m passionate about learning and collaborating on meaningful projects that make a difference. Let’s connect and create something amazing together! </p>
+  <p> I’ve put together a little WordPress blog to share my projects and what I’ve been learning along the way, especially in cybersecurity. Feel free to explore—check out the link below if it sparks your interest! 😊 </p>
 </div>
 
 
@@ -71,6 +67,7 @@ In addition to programming skill, I bring real-world business analysis expertise
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thuhale2210&label=Profile%20views&color=0e75b6&style=flat" alt="thuhale2210" />
 <a href="https://thuhale2210.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.thuhale2210.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="https://bit.ly/fromhannahtotechie" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-@fromhannahtotechie-blue?style=flat&logo=wordpress"></a>
 <a href="https://www.linkedin.com/in/thuhale2210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thuhale2210-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:thuhale2210@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thuhale2210@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
