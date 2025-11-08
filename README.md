@@ -67,7 +67,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thuhale2210&label=Profile%20views&color=0e75b6&style=flat" alt="thuhale2210" />
 <a href="https://thuhale2210.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.thuhale2210.github.io-blue?style=flat&logo=google-chrome"></a>
-<a href="https://bit.ly/fromhannahtotechie" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-@fromhannahtotechie-blue?style=flat&logo=wordpress"></a>
+<a href="https://binaryblooms.wordpress.com/" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-@binaryblooms-blue?style=flat&logo=wordpress"></a>
 <a href="https://www.linkedin.com/in/thuhale2210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thuhale2210-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:thuhale2210@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thuhale2210@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
